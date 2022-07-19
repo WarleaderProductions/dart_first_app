@@ -3,7 +3,7 @@
 ###############################################################################
 * text=auto
 
-.c++ linguist-detectable=false
+.C++ linguist-detectable=false
 .Dart linguist-detectable=true
 
 ###############################################################################
