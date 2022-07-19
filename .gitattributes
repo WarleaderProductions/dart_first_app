@@ -3,9 +3,6 @@
 ###############################################################################
 * text=auto
 
-.C++ linguist-detectable=false
-.Dart linguist-detectable=true
-
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
